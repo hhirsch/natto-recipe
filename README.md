@@ -12,4 +12,4 @@ Instructions on how to make natto at home
 - Check the beans, there should be white hallows around them
 - Move soy beans to single serve containers
 - Store in refrigerator for one week
-- Deep freze or use fresh
+- Deep freeze or use fresh
