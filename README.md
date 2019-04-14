@@ -19,7 +19,7 @@ Instructions on how to make natto at home
 ### Incubate
 - Set your incubation device to 40°C
 - Incubate for 19 hours
-- Check the beans, there should be white hallows around them
+- Check the beans, there should be white hallos around them
 ### Preserve
 - Move soy beans to single serve containers
 - Store in refrigerator for one week
