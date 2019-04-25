@@ -9,7 +9,7 @@ Instructions on how to make natto at home
 ## Instructions
 ### Cook beans
 - Soak soy beans for 24 hours
-- Cook soy beans
+- Cook soy beans until you can squash them between your fingers
 ### Prepare Beans for Incubation
 - Sterilize pan
 - Put the soy beans in the pan and cover them with foil (the cover should touch the beans)
@@ -18,7 +18,7 @@ Instructions on how to make natto at home
 - Poke holes in the second layer of foil
 ### Incubate
 - Set your incubation device to 40°C
-- Incubate for 19 hours
+- Incubate for 24 hours
 - Check the beans, there should be white hallos around them
 ### Preserve
 - Move soy beans to single serve containers
